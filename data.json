@@ -1,6 +1,7 @@
 {
  "messages": [
-   {"text": "Salut Tibo"},
+   {"Rock": "Ceci est du rock"},
+   {"Jazz": "Ceci est du jazz"},
    {"text": "Wesh thib c'est ouf frére !"}
  ]
 }
