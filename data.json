@@ -1,7 +1,7 @@
 {
- "messages": [
-   {"Rock": "Ceci est du rock"},
-   {"Jazz": "Ceci est du jazz"},
+ "answers": [
+   {"text": "Ceci est du rock"},
+   {"text": "Ceci est du jazz"},
    {"text": "Wesh thib c'est ouf frére !"}
  ]
 }
